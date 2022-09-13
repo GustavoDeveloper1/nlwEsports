@@ -12,6 +12,6 @@ app.get('/ads', (req: any, res: any) => {
     ])
 });
 
-app.listen(3000, () => {
+app.listen(4900, () => {
     console.log("ta rodando")
 })
